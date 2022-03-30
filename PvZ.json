@@ -201,14 +201,6 @@
 	},
 	{
 		"name": "Cactus",
-		"damage": "ninguno",
-		"hability": "disparar púas",
-		"cost": "125",
-		"recharge": "rápido",
-		"img": ""
-	},
-	{
-		"name": "Cactus",
 		"damage": "normal",
 		"hability": "disparar púas",
 		"cost": "125",

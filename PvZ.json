@@ -1,0 +1,306 @@
+[
+	{
+		"name": "Petacereza",
+		"damage": "masivo",
+		"hability": "explotar violentamente en un área de 3x3",
+		"cost": "150",
+		"recharge": "muy lento",
+		"img": ""
+	},
+	{
+		"name": "Patatapum",
+		"damage": "masivo",
+		"hability": "explotar en un área 1x1 cuando un enemigo entra en contacto con ella",
+		"cost": "25",
+		"recharge": "lento",
+		"img": ""
+	},
+	{
+		"name": "Hielaguisantes",
+		"damage": "normal",
+		"hability": "ralentizar el movimiento de su objetivo al congelarlo",
+		"cost": "175",
+		"recharge": "rápido",
+		"img": ""
+	},
+	{
+		"name": "Planta carronívora",
+		"damage": "masivo",
+		"hability": "comer zombies enteros",
+		"cost": "175",
+		"recharge": "rápido",
+		"img": ""
+	},
+	{
+		"name": "Girasol",
+		"damage": "ninguno",
+		"hability": "generar soles",
+		"cost": "50",
+		"recharge": "rápido",
+		"img": ""
+	},
+	{
+		"name": "Nuez",
+		"damage": "ninguno",
+		"hability": "ser un escudo y proteger a las otras plantas",
+		"cost": "50",
+		"recharge": "lento",
+		"img": ""
+	},
+	{
+		"name": "Repetidora",
+		"damage": "normal",
+		"hability": "lanzar 2 guisantes simultáneamente",
+		"cost": "200",
+		"recharge": "rápido",
+		"img": ""
+	},
+	{
+		"name": "Seta desesporada",
+		"damage": "normal",
+		"hability": "lanzar esporas",
+		"cost": "0",
+		"recharge": "rápido",
+		"img": ""
+	},
+	{
+		"name": "Seta solar",
+		"damage": "ninguno",
+		"hability": "generar pequeños soles",
+		"cost": "25",
+		"recharge": "rápido",
+		"img": ""
+	},
+	{
+		"name": "Humoseta",
+		"damage": "normal",
+		"hability": "penetrar puertas de pantallas",
+		"cost": "75",
+		"recharge": "rápido",
+		"img": ""
+	},
+	{
+		"name": "Comepiedras",
+		"damage": "ninguno",
+		"hability": "destruir lápidas zombies",
+		"cost": "75",
+		"recharge": "rápido",
+		"img": ""
+	},
+	{
+		"name": "Hipnoseta",
+		"damage": "ninguno",
+		"hability": "convertir al zombie en aliado",
+		"cost": "75",
+		"recharge": "lento",
+		"img": ""
+	},
+	{
+		"name": "Seta miedica",
+		"damage": "normal",
+		"hability": "esconderse si un zombi está a una proximidad de 3x3",
+		"cost": "25",
+		"recharge": "rápido",
+		"img": ""
+	},
+	{
+		"name": "Seta congelada",
+		"damage": "normal",
+		"hability": "inmovilizar zombies congelándolos",
+		"cost": "75",
+		"recharge": "muy lento",
+		"img": ""
+	},
+	{
+		"name": "Petaseta",
+		"damage": "masivo",
+		"hability": "explotar en un área de 3x3 y dejar cráteres",
+		"cost": "125",
+		"recharge": "muy lento",
+		"img": ""
+	},
+	{
+		"name": "Nenúfar",
+		"damage": "ninguno",
+		"hability": "crear una plataforma sobre la cual se pueden colocar otras plantas",
+		"cost": "25",
+		"recharge": "sin recarga",
+		"img": ""
+	},
+	{
+		"name": "Apisonaflor",
+		"damage": "masivo",
+		"hability": "crear una plataforma sobre la cual se pueden colocar otras plantas",
+		"cost": "50",
+		"recharge": "un uso",
+		"img": ""
+	},
+	{
+		"name": "Tripitidora",
+		"damage": "normal",
+		"hability": "disparar guisantes en tres carriles",
+		"cost": "325",
+		"recharge": "rápido",
+		"img": ""
+	},
+	{
+		"name": "Zampalga",
+		"damage": "masivo",
+		"hability": "matar zombies ahogándolos",
+		"cost": "25",
+		"recharge": "un uso",
+		"img": ""
+	},
+	{
+		"name": "Jalapeño",
+		"damage": "masivo",
+		"hability": "explotar y cubrir en llamas el carril en el que está colocado",
+		"cost": "125",
+		"recharge": "un uso",
+		"img": ""
+	},
+	{
+		"name": "Pinchohierba",
+		"damage": "normal",
+		"hability": "pinchar a los zombies que caminan sobre ella",
+		"cost": "100",
+		"recharge": "no necesita recarga",
+		"img": ""
+	},
+	{
+		"name": "Plantorcha",
+		"damage": "ninguno",
+		"hability": "prender en fuego los guisantes",
+		"cost": "175",
+		"recharge": "rápido",
+		"img": ""
+	},
+	{
+		"name": "Nuez cáscara-rabias",
+		"damage": "ninguno",
+		"hability": "impedir que algunos enemigos pasen sobre él y los olbiga a comérselo",
+		"cost": "125",
+		"recharge": "un uso",
+		"img": ""
+	},
+	{
+		"name": "Marseta",
+		"damage": "ninguno",
+		"hability": "disparar esporas",
+		"cost": "0",
+		"recharge": "lento",
+		"img": ""
+	},
+	{
+		"name": "Planterna",
+		"damage": "ninguno",
+		"hability": "despejar la niebla",
+		"cost": "25",
+		"recharge": "lento",
+		"img": ""
+	},
+	{
+		"name": "Cactus",
+		"damage": "ninguno",
+		"hability": "disparar púas",
+		"cost": "125",
+		"recharge": "rápido",
+		"img": ""
+	},
+	{
+		"name": "Cactus",
+		"damage": "normal",
+		"hability": "disparar púas",
+		"cost": "125",
+		"recharge": "rápido",
+		"img": ""
+	},
+	{
+		"name": "Trebolador",
+		"damage": "ninguno",
+		"hability": "soplar los zombis de globos y la niebla",
+		"cost": "100",
+		"recharge": "un uso",
+		"img": ""
+	},
+	{
+		"name": "Bipetidora",
+		"damage": "normal",
+		"hability": "disparar guisantes hacia adelante y atrás",
+		"cost": "125",
+		"recharge": "rápido",
+		"img": ""
+	},
+	{
+		"name": "Frustrella",
+		"damage": "normal",
+		"hability": "proyectar estrellas en 5 direcciones diferentes",
+		"cost": "125",
+		"recharge": "rápido",
+		"img": ""
+	},
+	{
+		"name": "Calabaza",
+		"damage": "ninguno",
+		"hability": "proteger la planta en la que se coloca",
+		"cost": "125",
+		"recharge": "un uso",
+		"img": ""
+	},
+	{
+		"name": "Magnetoseta",
+		"damage": "ninguno",
+		"hability": "quitar objetos metálicos a los zombies",
+		"cost": "100",
+		"recharge": "rápido",
+		"img": ""
+	},
+	{
+		"name": "Coltapulta",
+		"damage": "normal",
+		"hability": "lanzar coles",
+		"cost": "100",
+		"recharge": "rápido",
+		"img": ""
+	},
+	{
+		"name": "Grano de café",
+		"damage": "ninguno",
+		"hability": "permitir que se planten setas en los niveles día, piscina y techo",
+		"cost": "75",
+		"recharge": "un uso",
+		"img": ""
+	},
+	{
+		"name": "Ajo",
+		"damage": "ninguno",
+		"hability": "desviar a los zombies que lo muerden a otros carriles",
+		"cost": "50",
+		"recharge": "rápido",
+		"img": ""
+	},
+	{
+		"name": "Margarita",
+		"damage": "ninguno",
+		"hability": "generar monedas de plata y oro",
+		"cost": "50",
+		"recharge": "lento",
+		"img": ""
+	},
+	{
+		"name": "Rabo de gato",
+		"damage": "normal",
+		"hability": "disparar púas dirigidas la zombie más cercano a la casa",
+		"cost": "225",
+		"recharge": "muy lento",
+		"img": ""
+	},
+	{
+		"name": "Mazorcañón",
+		"damage": "masivo",
+		"hability": "lanzar una mazorca a un área específica y hacer que explote",
+		"cost": "500",
+		"recharge": "muy lento",
+		"img": ""
+	}
+]

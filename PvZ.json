@@ -5,6 +5,7 @@
 		"hability": "explotar violentamente en un área de 3x3",
 		"cost": "150",
 		"recharge": "muy lento",
+		"category": "planta",
 		"img": "https://raw.githubusercontent.com/Trinidad-Forster/Clase4-30-03/main/im%C3%A1genes/petacereza.png"
 	},
 	{
@@ -13,6 +14,7 @@
 		"hability": "explotar en un área 1x1 cuando un enemigo entra en contacto con ella",
 		"cost": "25",
 		"recharge": "lento",
+		"category": "planta",
 		"img": "https://raw.githubusercontent.com/Trinidad-Forster/Clase4-30-03/main/im%C3%A1genes/Patatapum.png"
 	},
 	{
@@ -21,6 +23,7 @@
 		"hability": "ralentizar el movimiento de su objetivo al congelarlo",
 		"cost": "175",
 		"recharge": "rápido",
+		"category": "planta",
 		"img": "https://raw.githubusercontent.com/Trinidad-Forster/Clase4-30-03/main/im%C3%A1genes/Hielaguisantes.png"
 	},
 	{
@@ -29,6 +32,7 @@
 		"hability": "comer zombies enteros",
 		"cost": "175",
 		"recharge": "rápido",
+		"category": "planta",
 		"img": "https://raw.githubusercontent.com/Trinidad-Forster/Clase4-30-03/main/im%C3%A1genes/Planta%20carnivora.png"
 	},
 	{
@@ -37,6 +41,7 @@
 		"hability": "generar soles",
 		"cost": "50",
 		"recharge": "rápido",
+		"category": "planta",
 		"img": "https://raw.githubusercontent.com/Trinidad-Forster/Clase4-30-03/main/im%C3%A1genes/Girasol.png"
 	},
 	{
@@ -45,6 +50,7 @@
 		"hability": "ser un escudo y proteger a las otras plantas",
 		"cost": "50",
 		"recharge": "lento",
+		"category": "planta",
 		"img": "https://raw.githubusercontent.com/Trinidad-Forster/Clase4-30-03/main/im%C3%A1genes/Nuez.png"
 	},
 	{
@@ -53,6 +59,7 @@
 		"hability": "lanzar 2 guisantes simultáneamente",
 		"cost": "200",
 		"recharge": "rápido",
+		"category": "planta",
 		"img": "https://raw.githubusercontent.com/Trinidad-Forster/Clase4-30-03/main/im%C3%A1genes/Repetidora.png"
 	},
 	{
@@ -61,6 +68,7 @@
 		"hability": "lanzar esporas",
 		"cost": "0",
 		"recharge": "rápido",
+		"category": "planta",
 		"img": "https://raw.githubusercontent.com/Trinidad-Forster/Clase4-30-03/main/im%C3%A1genes/Seta%20desesporada.png"
 	},
 	{
@@ -69,6 +77,7 @@
 		"hability": "generar pequeños soles",
 		"cost": "25",
 		"recharge": "rápido",
+		"category": "planta",
 		"img": "https://raw.githubusercontent.com/Trinidad-Forster/Clase4-30-03/main/im%C3%A1genes/Seta-solar.png"
 	},
 	{
@@ -77,6 +86,7 @@
 		"hability": "penetrar puertas de pantallas",
 		"cost": "75",
 		"recharge": "rápido",
+		"category": "planta",
 		"img": "https://raw.githubusercontent.com/Trinidad-Forster/Clase4-30-03/main/im%C3%A1genes/Fume-shroom.png"
 	},
 	{
@@ -85,6 +95,7 @@
 		"hability": "destruir lápidas zombies",
 		"cost": "75",
 		"recharge": "rápido",
+		"category": "planta",
 		"img": "https://raw.githubusercontent.com/Trinidad-Forster/Clase4-30-03/main/im%C3%A1genes/Comepiedras.png"
 	},
 	{
@@ -93,6 +104,7 @@
 		"hability": "convertir al zombie en aliado",
 		"cost": "75",
 		"recharge": "lento",
+		"category": "planta",
 		"img": "https://raw.githubusercontent.com/Trinidad-Forster/Clase4-30-03/main/im%C3%A1genes/Hypno-shroom-hd.png"
 	},
 	{
@@ -101,6 +113,7 @@
 		"hability": "esconderse si un zombi está a una proximidad de 3x3",
 		"cost": "25",
 		"recharge": "rápido",
+		"category": "planta",
 		"img": "https://raw.githubusercontent.com/Trinidad-Forster/Clase4-30-03/main/im%C3%A1genes/Scaredy-shroom.png"
 	},
 	{
@@ -109,6 +122,7 @@
 		"hability": "inmovilizar zombies congelándolos",
 		"cost": "75",
 		"recharge": "muy lento",
+		"category": "planta",
 		"img": "https://raw.githubusercontent.com/Trinidad-Forster/Clase4-30-03/main/im%C3%A1genes/IceShroom.png"
 	},
 	{
@@ -117,6 +131,7 @@
 		"hability": "explotar en un área de 3x3 y dejar cráteres",
 		"cost": "125",
 		"recharge": "muy lento",
+		"category": "planta",
 		"img": "https://raw.githubusercontent.com/Trinidad-Forster/Clase4-30-03/main/im%C3%A1genes/Doom-shroom-hd.png"
 	},
 	{
@@ -125,6 +140,7 @@
 		"hability": "crear una plataforma sobre la cual se pueden colocar otras plantas",
 		"cost": "25",
 		"recharge": "sin recarga",
+		"category": "planta",
 		"img": "https://raw.githubusercontent.com/Trinidad-Forster/Clase4-30-03/main/im%C3%A1genes/nenufar.png"
 	},
 	{
@@ -133,6 +149,7 @@
 		"hability": "aplastar zombies cercanos",
 		"cost": "50",
 		"recharge": "un uso",
+		"category": "planta",
 		"img": "https://raw.githubusercontent.com/Trinidad-Forster/Clase4-30-03/main/im%C3%A1genes/Squash-hd.png"
 	},
 	{
@@ -141,6 +158,7 @@
 		"hability": "disparar guisantes en tres carriles",
 		"cost": "325",
 		"recharge": "rápido",
+		"category": "planta",
 		"img": "https://raw.githubusercontent.com/Trinidad-Forster/Clase4-30-03/main/im%C3%A1genes/tripitidora.png"
 	},
 	{
@@ -149,6 +167,7 @@
 		"hability": "matar zombies ahogándolos",
 		"cost": "25",
 		"recharge": "un uso",
+		"category": "planta",
 		"img": "https://raw.githubusercontent.com/Trinidad-Forster/Clase4-30-03/main/im%C3%A1genes/Tangle_Kelp_HD.png"
 	},
 	{
@@ -157,6 +176,7 @@
 		"hability": "explotar y cubrir en llamas el carril en el que está colocado",
 		"cost": "125",
 		"recharge": "un uso",
+		"category": "planta",
 		"img": "https://raw.githubusercontent.com/Trinidad-Forster/Clase4-30-03/main/im%C3%A1genes/Jalapeno.png"
 	},
 	{
@@ -165,6 +185,7 @@
 		"hability": "pinchar a los zombies que caminan sobre ella",
 		"cost": "100",
 		"recharge": "no necesita recarga",
+		"category": "planta",
 		"img": "https://raw.githubusercontent.com/Trinidad-Forster/Clase4-30-03/main/im%C3%A1genes/HD_SIKRE.png"
 	},
 	{
@@ -173,6 +194,7 @@
 		"hability": "prender en fuego los guisantes",
 		"cost": "175",
 		"recharge": "rápido",
+		"category": "planta",
 		"img": "https://raw.githubusercontent.com/Trinidad-Forster/Clase4-30-03/main/im%C3%A1genes/Torchwood-hd.png"
 	},
 	{
@@ -181,6 +203,7 @@
 		"hability": "impedir que algunos enemigos pasen sobre él y los olbiga a comérselo",
 		"cost": "125",
 		"recharge": "un uso",
+		"category": "planta",
 		"img": "https://raw.githubusercontent.com/Trinidad-Forster/Clase4-30-03/main/im%C3%A1genes/Tall-nut.png"
 	},
 	{
@@ -189,6 +212,7 @@
 		"hability": "disparar esporas",
 		"cost": "0",
 		"recharge": "lento",
+		"category": "planta",
 		"img": "https://raw.githubusercontent.com/Trinidad-Forster/Clase4-30-03/main/im%C3%A1genes/Marseta.png"
 	},
 	{
@@ -197,6 +221,7 @@
 		"hability": "despejar la niebla",
 		"cost": "25",
 		"recharge": "lento",
+		"category": "planta",
 		"img": "https://raw.githubusercontent.com/Trinidad-Forster/Clase4-30-03/main/im%C3%A1genes/planterna.png"
 	},
 	{
@@ -205,6 +230,7 @@
 		"hability": "disparar púas",
 		"cost": "125",
 		"recharge": "rápido",
+		"category": "planta",
 		"img": "https://raw.githubusercontent.com/Trinidad-Forster/Clase4-30-03/main/im%C3%A1genes/Cactus.png"
 	},
 	{
@@ -213,6 +239,7 @@
 		"hability": "soplar los zombis de globos y la niebla",
 		"cost": "100",
 		"recharge": "un uso",
+		"category": "planta",
 		"img": "https://raw.githubusercontent.com/Trinidad-Forster/Clase4-30-03/main/im%C3%A1genes/Trebolador.png"
 	},
 	{
@@ -221,6 +248,7 @@
 		"hability": "disparar guisantes hacia adelante y atrás",
 		"cost": "125",
 		"recharge": "rápido",
+		"category": "planta",
 		"img": "https://raw.githubusercontent.com/Trinidad-Forster/Clase4-30-03/main/im%C3%A1genes/Bipetidora.png"
 	},
 	{
@@ -229,6 +257,7 @@
 		"hability": "proyectar estrellas en 5 direcciones diferentes",
 		"cost": "125",
 		"recharge": "rápido",
+		"category": "planta",
 		"img": "https://raw.githubusercontent.com/Trinidad-Forster/Clase4-30-03/main/im%C3%A1genes/Starfruit.png"
 	},
 	{
@@ -237,6 +266,7 @@
 		"hability": "proteger la planta en la que se coloca",
 		"cost": "125",
 		"recharge": "un uso",
+		"category": "planta",
 		"img": "https://raw.githubusercontent.com/Trinidad-Forster/Clase4-30-03/main/im%C3%A1genes/Calabaza.png"
 	},
 	{
@@ -245,6 +275,7 @@
 		"hability": "quitar objetos metálicos a los zombies",
 		"cost": "100",
 		"recharge": "rápido",
+		"category": "planta",
 		"img": "https://raw.githubusercontent.com/Trinidad-Forster/Clase4-30-03/main/im%C3%A1genes/Magnetoseta.png"
 	},
 	{
@@ -253,6 +284,7 @@
 		"hability": "lanzar coles",
 		"cost": "100",
 		"recharge": "rápido",
+		"category": "planta",
 		"img": "https://raw.githubusercontent.com/Trinidad-Forster/Clase4-30-03/main/im%C3%A1genes/coltapulta.png"
 	},
 	{
@@ -261,6 +293,7 @@
 		"hability": "permitir que se planten setas en los niveles día, piscina y techo",
 		"cost": "75",
 		"recharge": "un uso",
+		"category": "planta",
 		"img": "https://raw.githubusercontent.com/Trinidad-Forster/Clase4-30-03/main/im%C3%A1genes/Coffee-Bean.png"
 	},
 	{
@@ -269,6 +302,7 @@
 		"hability": "desviar a los zombies que lo muerden a otros carriles",
 		"cost": "50",
 		"recharge": "rápido",
+		"category": "planta",
 		"img": "https://raw.githubusercontent.com/Trinidad-Forster/Clase4-30-03/main/im%C3%A1genes/ajo.png"
 	},
 	{
@@ -277,6 +311,7 @@
 		"hability": "generar monedas de plata y oro",
 		"cost": "50",
 		"recharge": "lento",
+		"category": "planta",
 		"img": "https://raw.githubusercontent.com/Trinidad-Forster/Clase4-30-03/main/im%C3%A1genes/margarita.png"
 	},
 	{
@@ -285,6 +320,7 @@
 		"hability": "disparar púas dirigidas la zombie más cercano a la casa",
 		"cost": "225",
 		"recharge": "muy lento",
+		"category": "planta",
 		"img": "https://raw.githubusercontent.com/Trinidad-Forster/Clase4-30-03/main/im%C3%A1genes/rabo_de_gato.png"
 	},
 	{
@@ -293,6 +329,7 @@
 		"hability": "lanzar una mazorca a un área específica y hacer que explote",
 		"cost": "500",
 		"recharge": "muy lento",
+		"category": "planta",
 		"img": "https://raw.githubusercontent.com/Trinidad-Forster/Clase4-30-03/main/im%C3%A1genes/Mazorcanon.png"
 	}
 ]

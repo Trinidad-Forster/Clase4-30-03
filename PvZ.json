@@ -130,7 +130,7 @@
 	{
 		"name": "Apisonaflor",
 		"damage": "masivo",
-		"hability": "crear una plataforma sobre la cual se pueden colocar otras plantas",
+		"hability": "aplastar zombies cercanos",
 		"cost": "50",
 		"recharge": "un uso",
 		"img": ""
